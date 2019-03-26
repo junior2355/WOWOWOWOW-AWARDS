@@ -1,0 +1,36 @@
+img{
+    width:800px;
+}
+img{
+    height:500px;
+}
+ html{
+     text-align: center; 
+}
+html{
+    background-color:red;
+}
+p{
+    font-family: 'Courgette', cursive;
+}
+h1{
+   font-family: 'Cookie', cursive; 
+}
+html{
+    color:blue;
+}
+h1:hover{
+    color:yellow;
+}
+p:hover{
+    color:gold;
+}
+h1:hover{
+    background-color:purple;
+}
+p:hover{
+    background-color:black;
+}
+.big{
+    font-size: 30px;
+}
